@@ -1,0 +1,5 @@
+# Account config files
+.ask/
+
+# Skill deploy config
+skill.json

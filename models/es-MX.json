@@ -1,0 +1,57 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "ajolote mexicano",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": [
+            "parar",
+            "adios",
+            "salir"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "DatoCuriosoIntent",
+          "slots": [],
+          "samples": [
+            "algo más",
+            "quiero saber más",
+            "más",
+            "dime más",
+            "quiero otro",
+            "otro",
+            "dime otro",
+            "que es un ajolote",
+            "que es el ajolote mexicano",
+            "quiero saber del ajolote",
+            "dime algo del ajolote",
+            "curiosidad",
+            "dato del ajolote",
+            "dime un dato curioso del ajolote",
+            "dime un dato",
+            "dime algo",
+            "un dato",
+            "un dato curioso",
+            "dato",
+            "dato curioso",
+            "dime un dato curioso"
+          ]
+        }
+      ],
+      "types": []
+    }
+  }
+}
